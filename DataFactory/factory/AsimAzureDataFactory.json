@@ -1,0 +1,9 @@
+{
+	"name": "AsimAzureDataFactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "44e38afa-f2be-4d74-a2b5-b35a6380a0c5",
+		"tenantId": "c6297bc8-7553-431a-95ae-a7c3e931928d"
+	}
+}
